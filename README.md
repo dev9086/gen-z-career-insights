@@ -31,7 +31,7 @@ Comprehensive analysis of Gen Z career aspirations with machine learning models 
 pip install -r requirements.txt
 ```
 
-3. Run notebook:
+3. Open the notebook in Jupyter and run cells interactively:
 
 ```bash
 jupyter notebook notebooks/gen_z_career_analysis.ipynb
