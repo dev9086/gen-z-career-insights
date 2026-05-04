@@ -58,3 +58,7 @@ jupyter notebook notebooks/gen_z_career_analysis.ipynb
 - Simple, readable variable names (info, q1-q5, graph_1-5, model_1-3)
 - Clean data pipeline
 - Comprehensive EDA visualizations
+
+## Upcoming Features
+
+- **Power BI Dashboard**: Interactive Power BI dashboard for Gen Z career insights coming soon!
