@@ -2,6 +2,12 @@
 
 Comprehensive analysis of Gen Z career aspirations with machine learning models for prediction and insights.
 
+## 📊 View Interactive Notebook
+
+**[Open Notebook with Interactive Plotly Charts →](https://nbviewer.org/github/dev9086/gen-z-career-insights/blob/main/notebooks/gen_z_career_analysis.ipynb)**
+
+(Click the link above to view interactive visualizations, 3 ML classification models, and career trend analysis)
+
 ## What this project does
 
 - **Exploratory Data Analysis**: Country distribution, education levels, work preferences, salary importance
